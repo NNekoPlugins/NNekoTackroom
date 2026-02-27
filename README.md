@@ -15,11 +15,10 @@ QoL plugin to equip Chocobo Barding sets without going crazy.
 ---
 
 ## About 
-Intelligent management of draw/sheathe actions.
+Automates barding equip list selections.
 
 ## Features
-- Use the Draw and Sheathe emotes when possible.
-- Reset enmity of striking dummies when sheathing.
+- TBD (Still working on initial implementation.
 
 ## Installation
 > **Warning**  
